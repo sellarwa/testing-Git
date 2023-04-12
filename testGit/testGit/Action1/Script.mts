@@ -1,7 +1,4 @@
 ﻿MsgBox "this is a Git commit "
 MsgBox "this is a Git push "
-
-test
-
-testa
+MsgBox "this is the branch 2"
 
